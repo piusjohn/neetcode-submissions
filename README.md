@@ -74,19 +74,24 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0151-reverse-words-in-a-string](https://github.com/piusjohn/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0151-reverse-words-in-a-string](https://github.com/piusjohn/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0238-product-of-array-except-self](https://github.com/piusjohn/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1929-concatenation-of-array](https://github.com/piusjohn/neetcode-submissions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0238-product-of-array-except-self](https://github.com/piusjohn/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/piusjohn/neetcode-submissions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
