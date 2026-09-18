@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/piusjohn/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/piusjohn/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/piusjohn/neetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/piusjohn/neetcode-submissions/tree/master/1470-shuffle-the-array) |
@@ -104,9 +106,22 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
