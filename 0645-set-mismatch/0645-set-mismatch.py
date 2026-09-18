@@ -1,11 +1,7 @@
 class Solution:
     def findErrorNums(self, nums: list[int]) -> list[int]:
         nlist = nums
-        #fixedlist = []
         missing = 0
-        duplicate = 0
-        final = 0
-        current = final
         for i in range(1, len(nums)+1):
              #fixedlist.append(i)
             if i not in nums:
