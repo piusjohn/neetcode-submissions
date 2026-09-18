@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/piusjohn/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/piusjohn/neetcode-submissions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/piusjohn/neetcode-submissions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/piusjohn/neetcode-submissions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -96,4 +97,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/piusjohn/neetcode-submissions/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
