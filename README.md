@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/piusjohn/neetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piusjohn/neetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/piusjohn/neetcode-submissions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/piusjohn/neetcode-submissions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -103,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piusjohn/neetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piusjohn/neetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +127,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piusjohn/neetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
