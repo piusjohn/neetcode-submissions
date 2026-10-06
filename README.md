@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/piusjohn/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/piusjohn/neetcode-submissions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/piusjohn/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piusjohn/neetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piusjohn/neetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -121,6 +123,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/piusjohn/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piusjohn/neetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
