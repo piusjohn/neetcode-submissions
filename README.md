@@ -78,12 +78,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/piusjohn/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/piusjohn/neetcode-submissions/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/piusjohn/neetcode-submissions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/piusjohn/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/piusjohn/neetcode-submissions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/piusjohn/neetcode-submissions/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/piusjohn/neetcode-submissions/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
