@@ -90,6 +90,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/piusjohn/neetcode-submissions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piusjohn/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/piusjohn/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -160,6 +161,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/piusjohn/neetcode-submissions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piusjohn/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0268-missing-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/piusjohn/neetcode-submissions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
