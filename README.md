@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/piusjohn/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/piusjohn/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/piusjohn/neetcode-submissions/tree/master/0344-reverse-string) |
@@ -90,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/piusjohn/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/piusjohn/neetcode-submissions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piusjohn/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
