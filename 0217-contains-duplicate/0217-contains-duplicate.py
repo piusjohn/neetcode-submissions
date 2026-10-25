@@ -1,9 +1,10 @@
 class Solution:
     def containsDuplicate(self, nums: list[int]) -> bool:
-        n_set = len(set(nums))
-        n = len(nums)
-        if n != n_set:
-            return True
-        else:
-            return False
-
+        hashmap = {}
+        for i, num in enumerate(nums):
+            hashmap[num] = hashmap.get(num, 0) +1
+        for key in hashmap:
+            if hashmap[key] >= 2:
+                return True
+        
+        return False
