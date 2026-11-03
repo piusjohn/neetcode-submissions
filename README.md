@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/piusjohn/neetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/piusjohn/neetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piusjohn/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/piusjohn/neetcode-submissions/tree/master/0125-valid-palindrome) |
@@ -94,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/piusjohn/neetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/piusjohn/neetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piusjohn/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/piusjohn/neetcode-submissions/tree/master/0066-plus-one) |
@@ -196,4 +198,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/piusjohn/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/piusjohn/neetcode-submissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
