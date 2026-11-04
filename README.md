@@ -81,6 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piusjohn/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/piusjohn/neetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/piusjohn/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/piusjohn/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/piusjohn/neetcode-submissions/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/piusjohn/neetcode-submissions/tree/master/1768-merge-strings-alternately) |
@@ -101,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0066-plus-one](https://github.com/piusjohn/neetcode-submissions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piusjohn/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/piusjohn/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/piusjohn/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -151,6 +153,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/piusjohn/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
