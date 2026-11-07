@@ -107,6 +107,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0268-missing-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/piusjohn/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piusjohn/neetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/piusjohn/neetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
@@ -148,6 +149,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0242-valid-anagram](https://github.com/piusjohn/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/piusjohn/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/piusjohn/neetcode-submissions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piusjohn/neetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
