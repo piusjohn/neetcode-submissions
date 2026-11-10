@@ -184,6 +184,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0066-plus-one](https://github.com/piusjohn/neetcode-submissions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piusjohn/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0268-missing-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/piusjohn/neetcode-submissions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/piusjohn/neetcode-submissions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Enumeration
 |  |
