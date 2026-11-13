@@ -177,6 +177,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piusjohn/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/piusjohn/neetcode-submissions/tree/master/0155-min-stack) |
 | [1441-build-an-array-with-stack-operations](https://github.com/piusjohn/neetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Math
 |  |
@@ -210,4 +211,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/piusjohn/neetcode-submissions/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/piusjohn/neetcode-submissions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
