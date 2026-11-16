@@ -115,6 +115,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piusjohn/neetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/piusjohn/neetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/piusjohn/neetcode-submissions/tree/master/1470-shuffle-the-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/piusjohn/neetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1929-concatenation-of-array](https://github.com/piusjohn/neetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/piusjohn/neetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/piusjohn/neetcode-submissions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -122,6 +123,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/piusjohn/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/piusjohn/neetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0066-plus-one](https://github.com/piusjohn/neetcode-submissions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piusjohn/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0268-missing-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/piusjohn/neetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/piusjohn/neetcode-submissions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/piusjohn/neetcode-submissions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Enumeration
@@ -215,4 +218,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/piusjohn/neetcode-submissions/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/piusjohn/neetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
