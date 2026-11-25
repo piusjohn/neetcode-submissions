@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0011-container-with-most-water](https://github.com/piusjohn/neetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/piusjohn/neetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piusjohn/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/piusjohn/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/piusjohn/neetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/piusjohn/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piusjohn/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -100,6 +101,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0015-3sum](https://github.com/piusjohn/neetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piusjohn/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/piusjohn/neetcode-submissions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/piusjohn/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piusjohn/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piusjohn/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -149,6 +151,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0015-3sum](https://github.com/piusjohn/neetcode-submissions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/piusjohn/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/piusjohn/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/piusjohn/neetcode-submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/piusjohn/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
